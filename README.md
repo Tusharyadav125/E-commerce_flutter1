@@ -1,16 +1,54 @@
-# task_int
+# 🛒 Ecom – Demo E-commerce App with Basic Functionality
 
-A new Flutter project.
+Ecom is a beginner-friendly e-commerce mobile application built with **Flutter**.  
+Unlike the pure UI version, this project integrates **basic functionality** such as authentication, product listing, cart system, and order placement.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+### 1. Authentication  
+- Sign Up & Login screens  
+- Dummy **local authentication system** (no backend)  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 2. Product Listing  
+- Display a list of **6–8 products**  
+- Products fetched from a **dummy API** ([FakeStoreAPI](https://fakestoreapi.com))  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 3. Product Details  
+- On tapping a product, show:  
+  - Product Image  
+  - Price  
+  - Description  
+  - **Add to Cart** button  
+
+### 4. Cart System  
+- Add/Remove items from the cart  
+- Show **total price dynamically**  
+
+### 5. Order Placement  
+- Place an order (stored locally for now)  
+
+---
+
+## 🎯 Learning Focus
+This project is made to practice **Flutter app development with basic functionality**, covering:  
+
+- API integration with `http` package  
+- State management using **setState** (beginner friendly)  
+- Navigation between multiple screens  
+- Designing and managing **cart logic**  
+- Local order handling  
+
+---
+
+## 🚀 Future Scope
+- Connect cart & orders to a **backend (Firebase/Node.js)**  
+- Implement **user-specific authentication**  
+- Integrate **payment gateway**  
+- Add **wishlist** and **categories filtering**  
+
+---
+  
+
+
