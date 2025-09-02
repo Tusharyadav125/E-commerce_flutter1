@@ -5,6 +5,11 @@ Unlike the pure UI version, this project integrates **basic functionality** such
 
 ---
 
+![Image](https://github.com/user-attachments/assets/54b4c521-4f11-44d2-85de-c43a8a90a370)
+
+
+
+
 ## ✨ Features
 
 ### 1. Authentication  
@@ -52,4 +57,3 @@ This project is made to practice **Flutter app development with basic functional
 
   
 
-![Image](https://github.com/user-attachments/assets/54b4c521-4f11-44d2-85de-c43a8a90a370)
