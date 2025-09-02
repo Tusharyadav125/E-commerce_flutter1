@@ -49,6 +49,9 @@ This project is made to practice **Flutter app development with basic functional
 - Add **wishlist** and **categories filtering**  
 
 ---
+
   
 
+![Image](https://github.com/user-attachments/assets/944682b4-7e9c-43b8-a7ab-d48b8df4446b)
 
+![Image](https://github.com/user-attachments/assets/0f1fd3f0-c005-46aa-8123-83d664afe1d4)
